@@ -15,6 +15,9 @@ public class Class1 {
 //			}
 //		}
 //		System.out.println("Arrays are " + ((isEqual)?(""):("not ")) + "equal");
+		
+		// Today I practice my recent classes
+		// Hope it was helpful to you
 	}
 
 }
